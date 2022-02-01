@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
+C:\Users\Dell\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.StudentRegistrationForm.resources
